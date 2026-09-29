@@ -22,4 +22,7 @@ I am an environmental researcher based in Vienna, with experience in forest ecol
 
 I am documenting selected parts of my R-based research on forest in Austria.
 
-🔗 [ORCID](https://orcid.org/0009-0002-4293-5907)
+## Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/nazli-golestani-24b80613b/)
+- [ORCID](https://orcid.org/0009-0002-4293-5907)
