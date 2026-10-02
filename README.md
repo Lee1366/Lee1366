@@ -16,7 +16,7 @@ I am an environmental researcher based in Vienna, with experience in forest ecol
 - Data cleaning, quality control, analysis, and visualization
 - PICUS 1.5 forest ecosystem model
 - ArcGIS and spatial data analysis
-- Git and GitHub — currently developing my skills
+- Git and GitHub - currently developing my skills
 
 ## Current work
 
